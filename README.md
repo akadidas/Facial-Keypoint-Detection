@@ -9,6 +9,8 @@ Facial keypoints include points around the eyes, nose, and mouth on a face and a
 
 Facial keypoints displayed on two images, each of which contains a single face.
 
+![alt text](https://video.udacity-data.com/topher/2018/April/5acd7ff3_screen-shot-2018-04-10-at-8.24.14-pm/screen-shot-2018-04-10-at-8.24.14-pm.png)
+
 
 
 # Project Description
