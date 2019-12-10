@@ -11,9 +11,9 @@ Facial keypoints displayed on two images, each of which contains a single face.
 
 
 
-# Project Instructions
+# Project Description
 
-The project is broken up into a few main parts in four Python notebooks, only Notebooks 2 and 3 (and the models.py file) will be graded:
+The project is broken up into a few main parts in four Python notebooks:
 
 **Notebook 1** : Loading and Visualizing the Facial Keypoint Data
 
