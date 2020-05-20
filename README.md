@@ -1,4 +1,4 @@
-# Facial-keypoint-detection
+# Facial-keypoints-detection
 
 # Project Overview
 
